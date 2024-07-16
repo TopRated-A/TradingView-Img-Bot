@@ -1,0 +1,11 @@
+name = "chart-img-telegram-bot"
+
+main = "src/index.js"
+compatibility_date = "2024-07-11"
+
+
+[vars]
+NGROK_TOKEN = "2j5uEnzQxLa6k4CG5FEUEDvtd1Z_3RrPePiMvHdU6PSG7eagc"
+CHART_IMG_API_KEY = "daP2MPZZfK22kyWDGUrB46cUoSyORifU2JYSgjYS"
+TELEGRAM_API_TOKEN = "7374528608:AAFPsc_2VTnzS5n4vdxsV3kPptSCP1iNHDI"
+TELEGRAM_SECRET_TOKEN = "c8a5e6b4f4e2d8f7a9c2f3e1b5d4a7e6"
